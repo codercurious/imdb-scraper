@@ -1,3 +1,5 @@
+# Imdb Scraper
+Interested in using this scraper? Get it here: [Imdb Scraper](https://apify.com/curious_coder/imdb-scraper)
 Scrape reviews of any IMDB listing and extract information like title, review, rating, votes, user name, review date, etc
 
 Here is the sample output of this actor:
